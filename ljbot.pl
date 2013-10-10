@@ -1,1 +1,2 @@
-print "Hello World.\n";
+#!/usr/bin/perl
+ print "Hello World.\n";
